@@ -1,0 +1,32 @@
+export const userList = [
+  {
+    id:1,
+    name:'Alex',
+    address:'Germany',
+    email:'ale23@gmail.com'
+  },
+  {
+    id:2,
+    name:'Bahodir',
+    address:'Uzbekistan',
+    email:'ale190@gmail.com'
+  },
+  {
+    id:3,
+    name:'Muller',
+    address:'England',
+    email:'muller234@gmail.com'
+  },
+  {
+    id:4,
+    name:'Alfred',
+    address:'USA',
+    email:'alfres23134@gmail.com'
+  },
+  {
+    id:5,
+    name:'Max',
+    address:'Holland',
+    email:'muller2343@gmail.com'
+  }
+]
